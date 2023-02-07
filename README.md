@@ -19,7 +19,8 @@ Java ATM is a command-line based ATM program written in Java. It simulates the f
 1. Clone the repository to your local machine using the following command:
 
 ```sh 
-$ git clone https://github.com/RyanMcGrath1/Java-ATM.git
+$ git clone https://github.com/RyanMcGrath1/ATM.git
+
 ```
 
 2. Import the project into your preferred Java IDE.
