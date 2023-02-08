@@ -41,3 +41,8 @@ Contributions are welcome! If you have an idea for a new feature or find a bug, 
 This project uses the [System-Hook](https://github.com/kristian/system-hook) library. 
 
 The `system-hook` dependency is created and maintained by [https://github.com/kristian](https://github.com/kristian). The ``system-hook`` dependency can be found as a `.jar` file [here](https://github.com/kristian/system-hook/releases), alternatively the `Maven` dependency can be found [here](https://github.com/kristian/system-hook#maven-dependency).
+
+License
+-------
+
+The code is available under the terms of the [MIT License](http://opensource.org/licenses/MIT).
