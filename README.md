@@ -1,6 +1,6 @@
 # Java ATM
 
-Java ATM is a command-line based ATM program written in Java. It simulates the functionality of a real-life ATM, allowing users to deposit, withdraw and check their account balance. The focus of this project was to create an interface that was seamlessly traversable similarly to a real ATM.
+ATM is a command-line based ATM program written in Java. It simulates the functionality of a real-life ATM, allowing users to deposit, withdraw and check their account balance. The focus of this project was to create an interface that was seamlessly traversable similarly to a real ATM.
 
 ## Features
 
