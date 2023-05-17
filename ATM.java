@@ -130,7 +130,7 @@ public class ATM {
                 str.append(event.getKeyChar());
 
                 if (event.getVirtualKeyCode() == 13) {
-                    //Sanitize input; remove trailing \r
+                    //Sanitize input, remove trailing '\r'
                     str.replace(str.length() - 1, str.length(), "");
 
                     if (isNumeric(String.valueOf(str))) {
